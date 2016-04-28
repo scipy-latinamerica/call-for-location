@@ -50,6 +50,10 @@ Try to replace `{{ variable's name }}` with the information requested.
     Early decisions:
 
     -   {{ Number of attendees }} attendees
+    -   {{ Number of parallel tracks }} parallel sections
+
+        {{ List of special tracks, e.g. kids }}
+
     -   {{ Number of slots for tutorials }} tutorials
     -   {{ Number of keynotes }} keynotes
     -   {{ Number of slots for talks }} talks
@@ -62,6 +66,7 @@ Try to replace `{{ variable's name }}` with the information requested.
         attendance.
 
     -   {{ Number of sprints }} sprints
+    -   {{ Number of stands for job fair }} stands at job fair
     -   {{ Number of social events }} social events
 
         This includes reception, breaks, lunchs, happy hour, dinner and tours.
@@ -116,10 +121,10 @@ Try to replace `{{ variable's name }}` with the information requested.
         Most organizations will charge you something between 5% to 20% for all
         transactions.
 
+    -   Can you generate invoices?
+    -   Do you have experience with W8-like forms?
     -   Can you receive foreign incomes?
-
     -   Can you pay foreign expenses?
-
     -   Do you work with PayPall?
 
         PayPall is easy to track the status of the transaction.
@@ -148,6 +153,13 @@ Try to replace `{{ variable's name }}` with the information requested.
 
         Some people will claim their expenses only weeks after the conference.
 
+    -   Can you introduce us to one of your "clients"?
+
+        Sometimes the list of projects that one umbrella organization supports
+        can be found on their website and you can contact the project leaders
+        without ask for permission. When there is no such list you might ask for
+        some contacts.
+
 4.  Timeline
 
     Somethings need to be done early, e.g. sponsor prospectus.
@@ -175,6 +187,8 @@ Try to replace `{{ variable's name }}` with the information requested.
 
     -   {{ Date of announcement of financial aids }}: Announcement of financial
         aids.
+
+    2 months period to process advances or reimbursement for tickets and accomodations expenses.
 
     -   {{ Date that the conference starts }}: Conference starts.
 
